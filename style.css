@@ -4,10 +4,13 @@
     font-family: Century Gothic;
 }
 header{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/bg.jpg');
-    height:100vh;
-    background-size:cover;
-    background-position: center;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('img/bg.jpg');
+    height:90vh;
+    margin: 0;
+    padding: 0;
+    width : 100%;
+    background-size: cover;
+    background-position:fixed;
 }
 .headText {
     margin-left: 2rem;
